@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'greeting_widget.dart';
-import 'dice_game_widget.dart';
+import 'casino.dart';
 
 void main() {
   runApp(CasinoApp());
